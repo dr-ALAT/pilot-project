@@ -1,1 +1,2 @@
 read.csv()
+str(dir)
